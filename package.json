@@ -1,0 +1,29 @@
+{
+  "name": "padre-ginos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"./src/**/*.{html,css,scss,md,js,jsx,ts,tsx.json,test.js,test.jsx}\"",
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DellaDominic/Padre-Ginos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DellaDominic/Padre-Ginos/issues"
+  },
+  "homepage": "https://github.com/DellaDominic/Padre-Ginos#readme",
+  "devDependencies": {
+    "eslint": "^9.9.1",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.9.0",
+    "prettier": "^3.6.2"
+  }
+}
