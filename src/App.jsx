@@ -4,7 +4,7 @@ import Pizza from "./Pizza";
 const App = () => {
   return (
     <div className="app">
-      <h1>Padre Gino's - Order Now!</h1>
+      <h1>Salve! Padre Gino's - Order Now!</h1>
       <Pizza
         name="The Pepparoni Pizza"
         description="The most common pizza you could ever get"
